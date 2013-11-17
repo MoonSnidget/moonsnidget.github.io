@@ -1,0 +1,42 @@
+baseurl: /
+paginate: 5
+per_page: 5
+
+menuitems:
+    - name: 关于
+      url: /about.html
+    - name: 文章分类
+      url: /categories.html
+    - name: 留言薄
+      url: /guestbook.html
+    - name: 归档
+      url: /archive.html          
+    - name: 书单
+      url: /booklist.html          
+    - name: 资源列表
+      url: /resources.html
+
+array_less: 
+    - val: 1
+    - val: 2
+    - val: 3
+    - val: 4
+    - val: 5
+
+array_large:
+    - val: 1
+    - val: 2
+    - val: 3
+    - val: 4
+    - val: 5
+    - val: 6
+    - val: 7
+    - val: 8
+    - val: 9
+    - val: 10
+    - val: 11
+    - val: 12
+    - val: 13
+    - val: 14
+    - val: 15
+
